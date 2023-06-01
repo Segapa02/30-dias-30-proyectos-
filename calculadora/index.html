@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <link rel="stylesheet" href="style.css">
+  <title>Calculadora</title>
+  
+</head>
+<body>
+    
+  <div class="contenedor">
+    <header>
+        <input type="text" id="pantalla" readonly>
+    </header>
+
+    <main>
+        <div class="primera-linea">
+            <button class="btn-c" onclick="clearDisplay()">C</button>
+        </div>
+        <div class="segunda-linea">
+            <button class="btn-2"  onclick="appendToDisplay(7)">7</button>
+            <button class="btn-2" onclick="appendToDisplay(8)">8</button>
+            <button class="btn-2" onclick="appendToDisplay(9)">9</button>
+            <button class="btn-2" onclick="appendToDisplay('+')">+</button>
+        </div>
+        <div class="tercera-linea">
+            <button class="btn-3" onclick="appendToDisplay(4)">4</button>
+            <button class="btn-3" onclick="appendToDisplay(5)">5</button>
+            <button class="btn-3" onclick="appendToDisplay(6)">6</button>
+            <button class="btn-3" onclick="appendToDisplay('-')">-</button>
+        </div>
+        <div class="cuarta-linea">
+            <button class="btn-4" onclick="appendToDisplay(1)">1</button>
+            <button class="btn-4" onclick="appendToDisplay(2)">2</button>
+            <button class="btn-4" onclick="appendToDisplay(3)">3</button>
+            <button class="btn-4" onclick="appendToDisplay('*')">*</button>
+        </div>
+        <div class="quinta-linea">
+            <button class="btn-5" onclick="appendToDisplay(0)">0</button>
+            <button class="btn-5" onclick="appendToDisplay('.')">.</button>
+            <button class="btn-5" onclick="calculate()">=</button>
+            <button class="btn-5" onclick="appendToDisplay('/')">/</button>
+        </div>    
+    </main>
+    
+    
+  </div>
+   <script src="script.js"></script>
+</body>
+</html>

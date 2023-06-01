@@ -1,0 +1,33 @@
+En este proyecto personal tratare de realizar 30 proeyectos en el transcurso de 30 dias consecutivos
+y esta es la lista de los antes mencionados.
+
+Calculadora simple
+Lista de tareas
+Reloj digital
+Generador de contraseñas
+Conversor de unidades (por ejemplo, de Celsius a Fahrenheit)
+Galería de imágenes con efectos de desplazamiento
+Tablero de juego de Tic Tac Toe
+Contador de palabras en un texto
+Selector de colores RGB
+Preguntas y respuestas de una trivia
+Carrusel de imágenes automatizado
+Aplicación de clima local
+Lista de reproducción de música
+Contador de caracteres en tiempo real en un área de texto
+Cronómetro
+Editor de texto enriquecido (con negrita, cursiva, etc.)
+Menú de navegación desplegable
+Creador de tarjetas de visita
+Sistema de validación de formulario
+Juego de adivinar el número
+Calendario interactivo
+Galería de fotos filtrable por categorías
+Slider de imágenes con efectos de transición
+Aplicación de notas adhesivas
+Generador de memes
+Juego de ahorcado
+Sistema de inicio de sesión y registro de usuarios
+Simulador de dados
+Calculadora de propinas
+Visualizador de mapas interactivos
